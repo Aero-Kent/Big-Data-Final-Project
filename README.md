@@ -90,5 +90,8 @@ Python 3.8+, Apache Kafka, MongoDB.
     ```bash
     streamlit run app.py
     ```
+---
+**brief output overview example**
+<img width="1436" height="894" alt="gsrgrzghdrzh" src="https://github.com/user-attachments/assets/c859ac4a-f260-46e6-8ffe-9bc5efe770ab" />
 
 ---
