@@ -1,6 +1,6 @@
-# 🚀 Weather Data Dashboard: Project Guide
+# 🚀 Weather Data Dashboard
 
-**GROUP MEMBERS**  
+**GROUP 4 MEMBERS**  
 * De Guzman, Aero Kent **[leader]**  
 * Alegre, Jhon Isaac  
 * Garcia, Ron Allen  
