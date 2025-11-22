@@ -1,11 +1,11 @@
 # 🚀 Weather Data Dashboard: Project Guide
 
-**Group Members**  
-    ALEGRE, JHON ISAAC  
-    DE GUZMAN, AERO KENT  
-    GARCIA, RON ALLEN  
-    MOLINO, CARLOS FERDINAND  
-    NAIGAN, KING DARRYL
+**GROUP MEMBERS**  
+    De Guzman, Aero Kent (leader)
+    Alegre, Jhon Isaac
+    Garcia, Ron Allen
+    Molino, Carlos Ferdinand
+    Naigan, King Darryl
 
 The projects provides the output construction of a big data streaming dashboad using **Kafka** and **Streamlit** with the data being sourced from the WeatherAPI, featuring separate real-time and historical data views.
 
