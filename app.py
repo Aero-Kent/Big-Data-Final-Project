@@ -144,10 +144,6 @@ def get_mongodb_client(mongo_uri):
         st.sidebar.error("MongoDB Connection Failed (Unknown Error).")
         return None
 
-# The rest of the functions (get_kafka_consumer, get_latest_record_from_mongodb, 
-# insert_to_mongodb, consume_kafka_data, query_historical_data, 
-# display_real_time_view, display_historical_view) remain the same.
-
 @st.cache_resource(ttl=300)
 def get_kafka_consumer(kafka_broker, kafka_topic):
     try:
