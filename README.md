@@ -4,6 +4,7 @@
 * De Guzman, Aero Kent **[leader]**  
 * Garcia, Ron Allen  
 * Molino, Carlos Ferdinand  
+* Naigan, King Darryl
 
 The projects provides the output construction of a big data streaming dashboad using **Kafka** and **Streamlit** with the data being sourced from the WeatherAPI, featuring separate real-time and historical data views.
 
