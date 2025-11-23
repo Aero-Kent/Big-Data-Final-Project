@@ -60,7 +60,7 @@ with the group opting to integrating **MongoDB** instead.
 ## 🏃‍♂️ Setup & Execution
 
 ### Prerequisites
-Python 3.8+, Apache Kafka, MongoDB.
+*Python 3.8+, Apache Kafka, MongoDB, Streamlit, weatherAPI (https://www.weatherapi.com/)
 
 ### Setup
 1. **Setup environment**
@@ -77,7 +77,8 @@ Python 3.8+, Apache Kafka, MongoDB.
     ```
 3.  **Configure:** Set up Kafka, activate MongoDB (e.g. configuring the proper credentials),
                     sign-up/login on the https://www.weatherapi.com/ to obtain an API-KEY.
-4.  **Optional Environment File (`.env`):** Configure the details as provided in the .env
+4.  **Environment File (`.env`):** Configure the details as provided in the .env,  
+                                **both the mongodb URI and the API-KEY must be configured .env, they are not provided in the .env**
 
 ### Execution
 1.  **Start Kafka Broker** (and Controller).
